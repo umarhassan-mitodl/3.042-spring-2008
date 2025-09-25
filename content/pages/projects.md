@@ -3,6 +3,8 @@ content_type: page
 description: This section provides information on course projects including project
   characteristics, project management, presentations, past projects, and an example
   of student work.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
